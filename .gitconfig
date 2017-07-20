@@ -1,0 +1,10 @@
+[user]
+	name = KDTheory
+	email = k.darmondev@gmail.com
+[core]
+	autocrlf = input
+[color]
+	ui = true
+	diff = auto
+	status = auto
+	branch = auto
